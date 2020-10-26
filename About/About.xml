@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<packageId>Glucocorticoid.AndroidExtraPad</packageId>
+	<name>AndroidExtraPad</name>
+	<author>Glucocorticoid</author>
+	<supportedVersions>
+		<li>1.2</li>
+	</supportedVersions>
+
+	<modDependencies>
+		<li>
+			<packageId>ChJees.Androids</packageId>
+			<displayName>Androids</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1541064015</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+
+	<loadAfter>
+		<li>ChJees.Androids</li>
+	</loadAfter>
+
+	<description>
+	Allows to assign hibernation pods to selected droid and to hibernate selected or all droids in one button. Also work with Skynet terminator pawns.
+	
+	[Russian]
+	
+	Позволяет назначать места для гибернации для выбранных дройдов и выключать выбранного или всех дройдов одной кнопкой. Также работает с терминаторами из Skynet мода</description>
+</ModMetaData>

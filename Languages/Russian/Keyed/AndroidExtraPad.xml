@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <Label_Droid_Hibernate>Отключить дройда</Label_Droid_Hibernate>
+    <Desc_Droid_Hibernate>Принудительно отправить назначенного дройда в спящий режим</Desc_Droid_Hibernate>
+
+    <Label_Droid_Hibernate_All>Отключить всех дройдов</Label_Droid_Hibernate_All>
+    <Desc_Droid_Hibernate_All>Принудительно отправить всех дройдов в спящий режим в назначенные места гибернации</Desc_Droid_Hibernate_All>
+
+    <HiberationSpotSetOwnerDesc>Назначить дройда для гибернации</HiberationSpotSetOwnerDesc>
+
+</LanguageData>

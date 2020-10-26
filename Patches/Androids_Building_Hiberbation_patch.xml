@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+    <Operation Class="PatchOperationAdd">
+        <xpath>/Defs/ThingDef[defName="ChjDroidHibernationPad"]/comps</xpath>
+        <value>
+            <li Class="CompProperties_AssignableToPawn">
+                <drawUnownedAssignmentOverlay>false</drawUnownedAssignmentOverlay>
+                <compClass>AndroidExtraPad.CompAssignableToDroid_HibernationPad</compClass>
+            </li>
+        </value>
+    </Operation>
+</Patch>
