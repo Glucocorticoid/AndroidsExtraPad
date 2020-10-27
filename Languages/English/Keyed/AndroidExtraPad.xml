@@ -7,6 +7,9 @@
     <Label_Droid_Hibernate_All>Hibernate all droids</Label_Droid_Hibernate_All>
     <Desc_Droid_Hibernate_All>Force droids to hibernate on their assigned hibernation pad</Desc_Droid_Hibernate_All>
 
+    <Label_Droid_Hibernate_Pawn>Hibernate dorid</Label_Droid_Hibernate_Pawn>
+    <Desc_Droid_Hibernate_Pawn>Send droid to assigned or any free hibernation pad</Desc_Droid_Hibernate_Pawn>
+
     <HiberationSpotSetOwnerDesc>Assign droid to hibernate</HiberationSpotSetOwnerDesc>
 
 </LanguageData>

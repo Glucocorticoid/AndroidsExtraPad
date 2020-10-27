@@ -7,6 +7,9 @@
     <Label_Droid_Hibernate_All>Отключить всех дройдов</Label_Droid_Hibernate_All>
     <Desc_Droid_Hibernate_All>Принудительно отправить всех дройдов в спящий режим в назначенные места гибернации</Desc_Droid_Hibernate_All>
 
+    <Label_Droid_Hibernate_Pawn>Отключить дройда</Label_Droid_Hibernate_Pawn>
+    <Desc_Droid_Hibernate_Pawn>Отправить дройда в спящий режим в нащначенное или любое свободное место гибернации</Desc_Droid_Hibernate_Pawn>
+
     <HiberationSpotSetOwnerDesc>Назначить дройда для гибернации</HiberationSpotSetOwnerDesc>
 
 </LanguageData>
