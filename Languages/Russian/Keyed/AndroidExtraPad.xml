@@ -2,29 +2,29 @@
 <LanguageData>
 
     <!--Buttons labels and descriptions on hibernation pad-->
-    <Label_Droid_Hibernate>Отключить дройда</Label_Droid_Hibernate>
-    <Desc_Droid_Hibernate>Отправить дройда в ждущий режим в назначенное место гибернации</Desc_Droid_Hibernate>
+    <Label_Droid_Hibernate>Отключить дроида</Label_Droid_Hibernate>
+    <Desc_Droid_Hibernate>Отправить дроида в ждущий режим в назначенное место гибернации</Desc_Droid_Hibernate>
 
-    <Label_Droid_Hibernate_All_Assigned>Отключить дройдов</Label_Droid_Hibernate_All_Assigned>
-    <Desc_Droid_Hibernate_All_Assigned>Отправить дройдов в ждущий режим в назначеннык для них места гибернации</Desc_Droid_Hibernate_All_Assigned>
+    <Label_Droid_Hibernate_All_Assigned>Отключить дроидов</Label_Droid_Hibernate_All_Assigned>
+    <Desc_Droid_Hibernate_All_Assigned>Отправить дроидов в ждущий режим в назначеннык для них места гибернации</Desc_Droid_Hibernate_All_Assigned>
    
-    <Label_Droid_Hibernate_All>Отключить всех дройдов</Label_Droid_Hibernate_All>
-    <Desc_Droid_Hibernate_All>Отправить всех дройдов в ждущий режим в назначенные или любые свободные места гибернации</Desc_Droid_Hibernate_All>
+    <Label_Droid_Hibernate_All>Отключить всех дроидов</Label_Droid_Hibernate_All>
+    <Desc_Droid_Hibernate_All>Отправить всех дроидов в ждущий режим в назначенные или любые свободные места гибернации</Desc_Droid_Hibernate_All>
 
     <!--Buttons labels and descriptions on pawns-->
     <Label_Droid_Hibernate_Pawn>Спящий режим</Label_Droid_Hibernate_Pawn>
-    <Desc_Droid_Hibernate_Pawn>Перевести этого дройда в спящий режим на назначенное или любое свободное место гибернации</Desc_Droid_Hibernate_Pawn>
+    <Desc_Droid_Hibernate_Pawn>Перевести этого дроида в спящий режим на назначенное или любое свободное место гибернации</Desc_Droid_Hibernate_Pawn>
 
-    <HiberationSpotSetOwnerDesc>Назначить дройда для гибернации</HiberationSpotSetOwnerDesc>
+    <HiberationSpotSetOwnerDesc>Назначить дроида для гибернации</HiberationSpotSetOwnerDesc>
 
     <!--Settings labels and tooltips-->
     <affectSkynetHibernation_Explanation>Управлять режимом гибернации терминаторов (из мода Skynet)</affectSkynetHibernation_Explanation>
-    <affectSkynetHibernation_ToolTip>Позволяет назначать терминаторов в места для гибернации. Кнопка "Отключить дройдов" будет влиять на терминаторов с назначенным местом гибернации, если опция включена.</affectSkynetHibernation_ToolTip>
+    <affectSkynetHibernation_ToolTip>Позволяет назначать терминаторов в места для гибернации. Кнопка "Отключить дроидов" будет влиять на терминаторов с назначенным местом гибернации, если опция включена.</affectSkynetHibernation_ToolTip>
 
-    <showHibernateAssignedDroidsButton_Explanation>Отображать кнопку "Отключить дройдов" в месте гибернации</showHibernateAssignedDroidsButton_Explanation>
+    <showHibernateAssignedDroidsButton_Explanation>Отображать кнопку "Отключить дроидов" в месте гибернации</showHibernateAssignedDroidsButton_Explanation>
     <showHibernateAssignedDroidsButton_ToolTip>Включает или отключает отображение кнопки</showHibernateAssignedDroidsButton_ToolTip>
 
-    <showHibernateAllDroidsButton_Explanation>Отображать кнопку "Отключить всех дройдов" в месте гибернации</showHibernateAllDroidsButton_Explanation>
+    <showHibernateAllDroidsButton_Explanation>Отображать кнопку "Отключить всех дроидов" в месте гибернации</showHibernateAllDroidsButton_Explanation>
     <showHibernateAllDroidsButton_ToolTip>Включает или отключает отображение кнопки</showHibernateAllDroidsButton_ToolTip>
 
 </LanguageData>
