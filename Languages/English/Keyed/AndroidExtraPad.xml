@@ -1,15 +1,30 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+    <!--Buttons labels and descriptions on hibernation pad-->
     <Label_Droid_Hibernate>Hibernate dorid</Label_Droid_Hibernate>
-    <Desc_Droid_Hibernate>Force assigned droid to hibetnate</Desc_Droid_Hibernate>
+    <Desc_Droid_Hibernate>Send assigned droid to hibetnate on this pad</Desc_Droid_Hibernate>
+
+    <Label_Droid_Hibernate_All_Assigned>Hibernate droids</Label_Droid_Hibernate_All_Assigned>
+    <Desc_Droid_Hibernate_All_Assigned>Send droids with assigned hibernation pad to hibernate on their pad</Desc_Droid_Hibernate_All_Assigned>
 
     <Label_Droid_Hibernate_All>Hibernate all droids</Label_Droid_Hibernate_All>
-    <Desc_Droid_Hibernate_All>Force droids to hibernate on their assigned hibernation pad</Desc_Droid_Hibernate_All>
+    <Desc_Droid_Hibernate_All>Send all droids to hibernate on assigned pad or any free hibernation pad</Desc_Droid_Hibernate_All>
 
+    <!--Buttons labels and descriptions on pawns-->
     <Label_Droid_Hibernate_Pawn>Hibernate dorid</Label_Droid_Hibernate_Pawn>
-    <Desc_Droid_Hibernate_Pawn>Send droid to assigned or any free hibernation pad</Desc_Droid_Hibernate_Pawn>
+    <Desc_Droid_Hibernate_Pawn>Send this droid to assigned pad or any free hibernation pad</Desc_Droid_Hibernate_Pawn>
 
     <HiberationSpotSetOwnerDesc>Assign droid to hibernate</HiberationSpotSetOwnerDesc>
+
+    <!--Settings labels and tooltips-->
+    <affectSkynetHibernation_Explanation>Control hibernation behavior of terminators (from Skynet mod)</affectSkynetHibernation_Explanation>
+    <affectSkynetHibernation_ToolTip>Terminators can be assigned to hibernation pad. "Hibernate droids" button will affect terminators with assigned pad when enabled.</affectSkynetHibernation_ToolTip>
+
+    <showHibernateAssignedDroidsButton_Explanation>Display "Hibernate droids" button on hibernation pad</showHibernateAssignedDroidsButton_Explanation>
+    <showHibernateAssignedDroidsButton_ToolTip>Enables or disables button on hibernation pad</showHibernateAssignedDroidsButton_ToolTip>
+
+    <showHibernateAllDroidsButton_Explanation>Display "Hibernate all droids" button on hibernation pad</showHibernateAllDroidsButton_Explanation>
+    <showHibernateAllDroidsButton_ToolTip>Enables or disables button on hibernation pad</showHibernateAllDroidsButton_ToolTip>
 
 </LanguageData>
